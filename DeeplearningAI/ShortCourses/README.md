@@ -1,1 +1,2 @@
-course notes
+# README
+notes of courses
